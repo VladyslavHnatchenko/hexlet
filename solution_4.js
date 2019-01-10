@@ -8,7 +8,7 @@
 //}
 // END
 
-export default squareOfSum;
+//export default squareOfSum;
 
 ///* eslint-disable no-console */
 //
