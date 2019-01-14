@@ -10,6 +10,9 @@ const finalGrade = (exam, projects) => {
     return 0;
   }
 };
+
+
+
 // END
 
 //const isEven = num => num % 2 === 0;
