@@ -1,3 +1,12 @@
+const type = () => {
+  // BEGIN (write your solution here)
+  const value = 3;
+  value();
+  // END
+};
+
+export default type;
+
 // BEGIN (write your solution here)
 //a² + 2 * a * b + b²
 //2**2 + 2 * 2 * 3 + 3**2
